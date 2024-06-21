@@ -1,0 +1,8 @@
+argparse
+langchain==0.0.124
+langchain-community==0.0.6
+langchain-google-genai==0.0.2
+langchain-groq==0.0.4
+faiss-cpu==1.7.3
+PyPDF2==1.26.0
+python-dotenv==1.0.0
